@@ -4,6 +4,7 @@
 //Created for: ICS3U
 //Assignment Name: Unit 2 Lesson 5 Practice 3
 //This program asks the user for address
+
 import java.util.Scanner;
 public class Address {
 
